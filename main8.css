@@ -1,0 +1,8 @@
+.row div {
+    border: 6px solid orange;
+/*    height: 80px;*/
+    background-color: gold;
+    text-align: center;
+    line-height: 80px;
+}
+body {min-height: 2000px;}
